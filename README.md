@@ -14,7 +14,13 @@ _Client_
 When you submit, please include the link to this repo. Include your deployed links below:
 
 Copy and Paste the Deployed Client Link to this README
-> your url here
+> https://doughnuts3-c606d.firebaseapp.com
 
 Copy and Paste the Deployed Server Link to this README
-> you url here
+> https://intense-falls-63476.herokuapp.com/hole
+
+Front-end repo
+> https://github.com/WCNewell/doughnuts3front
+
+Back-end repo
+> https://github.com/WCNewell/doughnuts3back
